@@ -24,4 +24,13 @@
 
 .akbar {}
 
+.container {
+    display: flex;
+    gap: 300px;
+}
+img {
+    width: 580px;
+    height: 415px;
+}
+
 .sho {}
